@@ -1,9 +1,3 @@
-//
-//  ContentView.swift
-//  SwiftUI_Demo
-//
-//  Created by DevMAC01 on 02/12/23.
-//
 
 import SwiftUI
 
